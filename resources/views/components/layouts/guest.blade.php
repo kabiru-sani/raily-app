@@ -1,4 +1,4 @@
-{{-- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 
     <head>
@@ -36,6 +36,8 @@
         <link rel="stylesheet" href="{{ asset('assets/css/controls.css') }}" type="text/css"/>
         <link rel="stylesheet" href="{{ asset('assets/css/customized.css') }}" type="text/css"/>
 
+        <link rel="stylesheet" href="{{ asset('assets/css/mystyles.css') }}" type="text/css"/>
+
         <!-- swiper -->
         <link rel="stylesheet" href="{{ asset('assets/npm/swiper@11/swiper-bundle.min.css') }}">
 
@@ -72,4 +74,4 @@
         <script src="{{ asset('assets/npm/video-playlist/videojs-playlist.min.js') }}" type="text/javascript"></script>
         <script src="{{ asset('files/video.min.js') }}" ></script>
     </body>
-</html> --}}
+</html>
