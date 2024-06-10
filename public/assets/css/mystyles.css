@@ -1,0 +1,23 @@
+.image-features-1{
+    /* transition: 0.5s ease-in-out !important; */
+    transition: 0.5s cubic-bezier(2,2,2,2) !important;
+}
+.image-features-1:hover {
+   transform: scaleX(1.1) !important;
+}
+
+.image-features-2{
+    transition: 0.5s ease-in !important;
+}
+.image-features-2:hover {
+   transform: scaleY(1.1) !important;
+}
+
+.image-features-12{
+    transition: 0.5s ease !important;
+}
+.image-features-12.image-features-12:hover {
+   /* transform: scaleX(1.1) !important; */
+   transform: rotate3d(2,2,2,5deg) !important;
+   /* transform: scale3d(1,2,1) !important; */
+}

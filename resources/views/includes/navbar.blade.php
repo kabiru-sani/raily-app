@@ -5,18 +5,19 @@
         </a>
         <nav role="navigation" id="nav-wrapper" class="nav-menu w-nav-menu">
             <div class="box-menu">
+                <a href="#Home" class="nav-link w-nav-link">Home</a>
                 <a href="#meetups" class="nav-link dtsctop w-nav-link">Meetups</a>
                 <a href="#" class="nav-link non-desctop w-nav-link">Date</a>
                 <a href="#" class="nav-link dtsctop non w-nav-link">AR</a>
-                <a href="#Ai" class="nav-link w-nav-link">AI</a>
-                <a href="#Gamification" class="nav-link w-nav-link">Gamification</a>
-                <a href="#Rewards" class="nav-link w-nav-link">Rewards</a>
+                <a href="#eco" class="nav-link w-nav-link">Ecosystem</a>
+                <a href="#xr1" class="nav-link w-nav-link">XR</a>
+                <a href="#Smart" class="nav-link w-nav-link">Smart</a>
                 <a href="#web-3" class="nav-link w-nav-link">Web 3</a>
                 <a href="#" class="nav-link non-desctop non w-nav-link">AR</a>
                 <a href="#xr" class="nav-link dtsctop non w-nav-link">XR</a>
                 <a href="#" class="nav-link non-desctop non w-nav-link">XR</a>
                 <a href="#concierge" class="nav-link w-nav-link">Concierge</a>
-                <a href="#charity" class="nav-link w-nav-link">Charity</a>
+
                 <a href="#all-features" class="nav-link w-nav-link">All Features</a>
             </div>
         </nav>

@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="csrf-token" content="{{ csrf_token() }}">
 
-        <title>{{ config('app.name', 'Laravel') }}</title>
+        <title>{{ config('app.name', 'Raily') }}</title>
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
         <link href="https://fonts.bunny.net/css?family=figtree:400,500,600&display=swap" rel="stylesheet" />
@@ -69,6 +69,8 @@
         <script src="{{ asset('assets/js/platform.js') }}" type="text/javascript"></script>
         <script src="{{ asset('assets/js/collector.js') }}" type="text/javascript"></script>
         <script src="{{ asset('assets/js/webfont.js') }}" type="text/javascript"></script>
+
+        <script src="{{ asset('assets/js/jquery-3.5.1.min.js') }}" type="text/javascript"></script>
 
         <script src="{{ asset('assets/npm/swiper@11/swiper-bundle.min.js') }}" type="text/javascript"></script>
         <script src="{{ asset('assets/npm/video-playlist/videojs-playlist.min.js') }}" type="text/javascript"></script>

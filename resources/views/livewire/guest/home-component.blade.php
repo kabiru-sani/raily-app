@@ -218,7 +218,7 @@
         </div>
     </section>
 
-    <section class="section-ecosystem">
+    <section id="eco" class="section-ecosystem">
         <div class="container-0">
             <div class="box-text-audio-meet">
                 <h2 class="h3 central">Raily ecosystem</h2>
@@ -427,7 +427,7 @@
         </div>
     </section>
 
-    <section id="xr" class="section-xr">
+    <section id="xr1" class="section-xr">
         <div class="container">
             <div data-w-id="5a32d2b9-14ec-0ddc-4c17-0c5e89b4f91a" class="box-text-xr">
                 <h1 class="text-160 planshet-96">XR</h1>
@@ -490,7 +490,7 @@
         </div>
     </section>
 
-    <section id="xr" class="section-smartatch">
+    <section id="Smart" class="section-smartatch">
         <div class="container">
             <div class="box-text-smart">
                 <div class="h3 central mob-left">Smartwatch as Social Circle</div>
